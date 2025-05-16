@@ -1,3 +1,4 @@
+<img src="banner_github.gif" alt="GitHub Banner" width="100%" />
 <h1>Hi 👋, I'm Hamza EL FEHRI</h1>
 <p>I'm a student in professional bachelor's degree in computer science and applied mathematics.</p>
 <h2>🚀 Languages and Tools I Use</h2>
