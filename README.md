@@ -1,4 +1,4 @@
-<img src="banner_github.gif" alt="GitHub Banner" width="100%" height="30%" />
+<img src="banner_github1.gif" alt="GitHub Banner" width="100%" height="30%" />
 <h1>Hello World!, I'm Hamza EL FEHRI, a Maroccan Web Developer 👋🏼</h1>
 <p>👨🏼‍🎓Studying in professional bachelor's degree in computer science and applied mathematics.</p>
 <h2>🚀 Languages and Tools I Use</h2>
